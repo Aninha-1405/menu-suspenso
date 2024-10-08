@@ -1,3 +1,6 @@
+<html>
+<head>
+<style>
 .mainmenubtn {
     background-color: skyblue;
     color: white;
@@ -27,15 +30,18 @@
 .dropdown:hover .dropdown-child {
     display: block;
 }
-
-
+</style>
+</head>
+<body>
 <div class="dropdown">
   <button class="mainmenubtn">Main Menu</button>
   <div class="dropdown-child">
-    <a href="http://wwww.seudominio.com/pagina1.html">Sub Menu 1</a>
-    <a href="http://wwww.seudominio.com/pagina2.html">Sub Menu 2</a>
-    <a href="http://wwww.seudominio.com/pagina3.html">Sub Menu 3</a>
-    <a href="http://wwww.seudominio.com/pagina4.html">Sub Menu 4</a>
-    <a href="http://wwww.seudominio.com/pagina5.html">Sub Menu 5</a>
+    <a href="http://wwww.yourdomain.com/page1.html">Sub Menu 1</a>
+    <a href="http://wwww.yourdomain.com/page2.html">Sub Menu 2</a>
+    <a href="http://wwww.yourdomain.com/page3.html">Sub Menu 3</a>
+    <a href="http://wwww.yourdomain.com/page4.html">Sub Menu 4</a>
+    <a href="http://wwww.yourdomain.com/page5.html">Sub Menu 5</a>
   </div>
 </div>
+</body>
+</html>
