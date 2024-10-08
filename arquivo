@@ -1,0 +1,21 @@
+<html>
+   <head>
+      <style>
+        p{color:white;
+        background-color:black;
+        text-align:center
+        }
+        
+        
+       </style>
+    </head>  
+ <body>
+   <h1>Filmes e Séries</h1>
+   <p>primeiro paragrafo</p>
+   <p>segundo paragrafo</p>
+   <p>terceiro paragrafo</p>
+   <p>good night<p>
+   
+   
+     </body>
+     </html>
