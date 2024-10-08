@@ -1,21 +1,10 @@
-<html>
-   <head>
-      <style>
-        p{color:white;
-        background-color:black;
-        text-align:center
-        }
-        
-        
-       </style>
-    </head>  
- <body>
-   <h1>Filmes e Séries</h1>
-   <p>primeiro paragrafo</p>
-   <p>segundo paragrafo</p>
-   <p>terceiro paragrafo</p>
-   <p>good night<p>
-   
-   
-     </body>
-     </html>
+<div class="dropdown">
+  <button class="mainmenubtn">Main Menu</button>
+  <div class="dropdown-child">
+    <a href="http://wwww.seudominio.com/pagina1.html">Sub Menu 1</a>
+    <a href="http://wwww.seudominio.com/pagina2.html">Sub Menu 2</a>
+    <a href="http://wwww.seudominio.com/pagina3.html">Sub Menu 3</a>
+    <a href="http://wwww.seudominio.com/pagina4.html">Sub Menu 4</a>
+    <a href="http://wwww.seudominio.com/pagina5.html">Sub Menu 5</a>
+  </div>
+</div>
